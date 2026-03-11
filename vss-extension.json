@@ -9,7 +9,7 @@
       "id": "Microsoft.VisualStudio.Services"
     }
   ],
-  "public": false,
+  "public": true,
   "description": "Run OpenCode AI agents on pull requests. Use review mode for automated PR build validation or command mode for comment-triggered runs.",
   "categories": ["Azure Pipelines"],
   "tags": ["azure-pipelines", "ai", "code-review", "opencode", "pull-request", "automation"],
