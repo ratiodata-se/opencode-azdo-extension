@@ -2,7 +2,7 @@
   "manifestVersion": 1,
   "id": "OpenCodeAgent",
   "name": "OpenCode AI Agent",
-  "version": "0.17.6",
+  "version": "1.0.0",
   "publisher": "martin-trojan",
   "targets": [
     {

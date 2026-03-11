@@ -7,9 +7,9 @@
   "helpMarkDown": "Runs an OpenCode AI agent against the current pull request. In review mode agent . In command mode it responds to /oc or /opencode comments and can commit changes. See https://opencode.ai for provider/model options.",
   "author": "trojanmartin",
   "version": {
-    "Major": 0,
-    "Minor": 17,
-    "Patch": 6
+    "Major": 1,
+    "Minor": 0,
+    "Patch": 0
   },
   "instanceNameFormat": "OpenCode",
   "minimumAgentVersion": "2.206.1",
